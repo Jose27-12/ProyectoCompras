@@ -1,0 +1,86 @@
+{
+    "1": {
+        "nombre": "VueJS",
+        "precio": "$25",
+        "imagenUrl": "img/1.jpg",
+        "descripcion": "Camisa de alta calidad con el logo de VueJS, perfecta para desarrolladores y entusiastas de este framework progresivo para construir interfaces de usuario."
+    },
+    "2": {
+        "nombre": "AngularJS",
+        "precio": "$25",
+        "imagenUrl": "img/2.jpg",
+        "descripcion": "Muestra tu pasión por AngularJS con esta elegante camisa, ideal para quienes disfrutan construyendo aplicaciones web robustas y mantenibles."
+    },
+    "3": {
+        "nombre": "ReactJS",
+        "precio": "$25",
+        "imagenUrl": "img/3.jpg",
+        "descripcion": "Luce el distintivo logo de ReactJS con esta cómoda y moderna camisa, esencial para cualquier desarrollador que ama crear interfaces de usuario con esta biblioteca de JavaScript."
+    },
+    "4": {
+        "nombre": "Redux",
+        "precio": "$25",
+        "imagenUrl": "img/4.jpg",
+        "descripcion": "Camisa con el logo de Redux, el compañero perfecto para React y otras bibliotecas de UI, permitiéndote manejar estados complejos de forma sencilla y predecible."
+    },
+    "5": {
+        "nombre": "Node.JS",
+        "precio": "$25",
+        "imagenUrl": "img/5.jpg",
+        "descripcion": "Camisa diseñada para desarrolladores de backend que utilizan Node.JS, una herramienta poderosa y eficiente para construir aplicaciones de red rápidas y escalables."
+    },
+    "6": {
+        "nombre": "Sass",
+        "precio": "$25",
+        "imagenUrl": "img/6.jpg",
+        "descripcion": "Luce esta camisa con el logo de Sass, el preprocesador CSS que hace que escribir estilos sea más divertido y mantenible con características como variables y mixins."
+    },
+    "7": {
+        "nombre": "HTML5",
+        "precio": "$25",
+        "imagenUrl": "img/7.jpg",
+        "descripcion": "Camisa con el logo de HTML5, la base de la web moderna. Ideal para desarrolladores que crean contenido estructurado y accesible para la web."
+    },
+    "8": {
+        "nombre": "Github",
+        "precio": "$25",
+        "imagenUrl": "img/8.jpg",
+        "descripcion": "Luce esta camisa con el logo de GitHub, la plataforma de desarrollo colaborativo donde millones de desarrolladores alojan y revisan código, gestionan proyectos y construyen software juntos."
+    },
+    "9": {
+        "nombre": "BulmaCSS",
+        "precio": "$25",
+        "imagenUrl": "img/9.jpg",
+        "descripcion": "Camisa con el logo de BulmaCSS, un framework CSS moderno basado en Flexbox que facilita la creación de interfaces de usuario atractivas y responsivas."
+    },
+    "10": {
+        "nombre": "TypeScript",
+        "precio": "$25",
+        "imagenUrl": "img/10.jpg",
+        "descripcion": "Esta camisa con el logo de TypeScript es perfecta para los desarrolladores que aprecian la tipificación estática y las mejoras sobre JavaScript que ofrece este lenguaje."
+    },
+    "11": {
+        "nombre": "Drupal",
+        "precio": "$25",
+        "imagenUrl": "img/11.jpg",
+        "descripcion": "Camisa con el logo de Drupal, el CMS flexible y escalable que permite a individuos y organizaciones de todo el mundo construir y gestionar sitios web complejos."
+    },
+    "12": {
+        "nombre": "JavaScript",
+        "precio": "$25",
+        "imagenUrl": "img/12.jpg",
+        "descripcion": "Luce esta camisa con el logo de JavaScript, el lenguaje de programación esencial para el desarrollo web moderno, conocido por su versatilidad y omnipresencia en el frontend y el backend."
+    },
+    "13": {
+        "nombre": "GraphQL",
+        "precio": "$25",
+        "imagenUrl": "img/13.jpg",
+        "descripcion": "Esta camisa con el logo de GraphQL es ideal para los desarrolladores que disfrutan de consultas eficientes y flexibles a sus APIs, mejorando la productividad y el rendimiento de sus aplicaciones."
+    },
+    "14": {
+        "nombre": "WordPress",
+        "precio": "$25",
+        "imagenUrl": "img/14.jpg",
+        "descripcion": "Luce esta camisa con el logo de WordPress, la plataforma de publicación y gestión de contenidos más popular del mundo, que potencia millones de sitios web y blogs."
+    }
+}
